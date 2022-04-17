@@ -1,0 +1,27 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.picture
+{
+
+width: 400px;
+font-size: 20px;
+border: solid cyan;
+background-color: white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px black;
+}
+body
+{
+background-size: cover;
+background-position: center;
+}
+canvas
+{
+    border: 5px solid cyan;
+    box-shadow: 5px 5px 5px indigo;
+}
